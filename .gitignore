@@ -1,0 +1,22 @@
+# Visual Studio Code
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build directories
+bin/
+obj/
+*.sqlite
+*.db
+
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+/build/
+*.DS_Store
